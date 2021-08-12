@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  
+- Solution URL:  https://www.frontendmentor.io/solutions/flexbox-and-media-query-l77rc4VSm
 - Live Site URL: https://paro-810.github.io/order-summary-component-main/
 
 ## My process
