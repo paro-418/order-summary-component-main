@@ -20,10 +20,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 
-### Links
+<!-- ### Links
 
 - Solution URL:  
-- Live Site URL: 
+- Live Site URL:  -->
 
 ## My process
 
